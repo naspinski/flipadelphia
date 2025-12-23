@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SplitFlapView">
+        <attr name="text" format="string" />
+        <attr name="textColor" format="color" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="flapHeight" format="dimension" />
+        <attr name="textPadding" format="dimension" />
+        <attr name="textSize" format="dimension" />
+        <attr name="animationDuration" format="integer" />
+        <attr name="characterSet" format="string" />
+        <attr name="showSparkle" format="boolean" />
+        <attr name="sparkleColor" format="color" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464273598528",
+    "project_id": "flipadelphia-c85c2",
+    "storage_bucket": "flipadelphia-c85c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464273598528:android:e45d175baf5895bef197a5",
+        "android_client_info": {
+          "package_name": "com.naspinski.flipadelphia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqoqr4lYg_P65GqMHjwo5BCNQaqSMlcVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

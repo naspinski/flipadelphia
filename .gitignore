@@ -1,0 +1,17 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Firebase
+firebase-debug.log
+.firebase/
+
+# Cloud Functions
+functions/node_modules
